@@ -1,4 +1,4 @@
-module github.com/Ilhom5005/stats
+module github.com/Ilhom5005/stats/v1
 
 go 1.15
 

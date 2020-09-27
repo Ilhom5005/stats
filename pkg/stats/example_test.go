@@ -1,7 +1,7 @@
 package stats
 
 import (
-	"github.com/Ilhom5005/bank/pkg/types"
+	"github.com/Ilhom5005/bank/pkg/typesv2"
 	"fmt"
 )
 
